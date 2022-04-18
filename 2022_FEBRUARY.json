@@ -1,0 +1,527 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 249685261,
+        "longitudeE7": 1211933345,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 249702718,
+        "longitudeE7": 1211930176,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-14T06:22:52.676Z",
+        "endTimestamp": "2022-02-14T06:24:55.766Z"
+      },
+      "distance": 196,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 33.30593705177307
+      }, {
+        "activityType": "STILL",
+        "probability": 24.540235102176666
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.094835340976715
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.566941529512405
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 4.777553305029869
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 3.23619544506073
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.9983693957328796
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.8782269209623337
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17947698943316936
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17864126712083817
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.16381260938942432
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.037545079248957336
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.026075559435412288
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.016141032392624766
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.452855779073616E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 249685287,
+          "lngE7": 1211932296
+        }, {
+          "latE7": 249692478,
+          "lngE7": 1211932296
+        }, {
+          "latE7": 249702682,
+          "lngE7": 1211932373
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 193.30825608718314,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 249536291,
+        "longitudeE7": 1212255932,
+        "placeId": "ChIJ10n6_EgiaDQRljwr9Y234Fc",
+        "address": "32041台灣桃園市中壢區中和路139 號",
+        "name": "Zhongli Station",
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        },
+        "locationConfidence": 68.20279,
+        "calibratedProbability": 28.794239
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T05:44:38Z",
+        "endTimestamp": "2022-02-18T05:48:04.865Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 249535148,
+      "centerLngE7": 1212234088,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 249533609,
+        "longitudeE7": 1212241611,
+        "placeId": "ChIJk7yhFUkiaDQRGrLICwwsIk0",
+        "address": "320台灣桃園市中壢區建國路100號",
+        "name": "Chungli Bus Zhongli Station",
+        "locationConfidence": 15.114064,
+        "calibratedProbability": 6.3809414
+      }, {
+        "latitudeE7": 249525416,
+        "longitudeE7": 1212247747,
+        "placeId": "ChIJyezxIEkiaDQRhn-fBuOz4NQ",
+        "address": "320台灣桃園市中壢區",
+        "name": "Zhongli Rear Station",
+        "locationConfidence": 5.4207926,
+        "calibratedProbability": 2.288581
+      }, {
+        "latitudeE7": 249530140,
+        "longitudeE7": 1212239070,
+        "placeId": "ChIJc-jsQEkiaDQRcCG-S4NndCU",
+        "address": "320台灣桃園市中壢區",
+        "name": "Taoyuan Bus Zhongli Terminal Station",
+        "locationConfidence": 2.5322711,
+        "calibratedProbability": 1.0690886
+      }, {
+        "latitudeE7": 249534892,
+        "longitudeE7": 1212241691,
+        "placeId": "ChIJg4ESFUkiaDQRlGBl--iT0nU",
+        "address": "320台灣桃園市中壢區建國路100號",
+        "name": "Zhongli Station",
+        "locationConfidence": 1.9254538,
+        "calibratedProbability": 0.812899
+      }, {
+        "latitudeE7": 249542000,
+        "longitudeE7": 1212238800,
+        "placeId": "ChIJlQK3dUkiaDQRsnYE6IsZKh4",
+        "address": "號\nNo. 75中正路中壢區\n桃園市 Taiwan 320",
+        "name": "Taoyuan Bus Zhong-li Station",
+        "locationConfidence": 1.2835875,
+        "calibratedProbability": 0.54191226
+      }, {
+        "latitudeE7": 249541044,
+        "longitudeE7": 1212223470,
+        "placeId": "ChIJo4NK2UsiaDQROvHhVp7ZoCc",
+        "address": "320台灣桃園市中壢區延平路607號",
+        "name": "Taoyuan City Government Police Bureau Chungli",
+        "locationConfidence": 0.77166396,
+        "calibratedProbability": 0.32578546
+      }, {
+        "latitudeE7": 249532740,
+        "longitudeE7": 1212241360,
+        "placeId": "ChIJg4ESFUkiaDQRDFaEeIiN-cI",
+        "address": "320台灣桃園市中壢區建國路100號",
+        "name": "Kuo-kuang Motor Transport",
+        "locationConfidence": 0.63145965,
+        "calibratedProbability": 0.26659322
+      }, {
+        "latitudeE7": 249533886,
+        "longitudeE7": 1212237192,
+        "placeId": "ChIJ_ZZjbEkiaDQRrtPxn1ayxZU",
+        "address": "320台灣桃園市中壢區中和路184號",
+        "name": "7-ELEVEN 中天門市",
+        "locationConfidence": 0.5781507,
+        "calibratedProbability": 0.24408694
+      }, {
+        "latitudeE7": 249535188,
+        "longitudeE7": 1212242018,
+        "placeId": "ChIJ1WiIEUkiaDQRyUIN9G6uIKA",
+        "address": "320台灣桃園市中壢區建國路100號",
+        "name": "Guoguang Bus Station",
+        "locationConfidence": 0.5251457,
+        "calibratedProbability": 0.221709
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 249531440,
+        "longitudeE7": 1212240773,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 249586317,
+        "longitudeE7": 1212243551,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T05:48:04.865Z",
+        "endTimestamp": "2022-02-18T05:55:23Z"
+      },
+      "distance": 610,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 29.792842268943787
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 26.049962639808655
+      }, {
+        "activityType": "STILL",
+        "probability": 23.772872984409332
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.524425566196442
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.4120518937706947
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 1.4840115793049335
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2702214531600475
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.3909344784915447
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12603291543200612
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.06234207539819181
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.058997474843636155
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.04660594277083874
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0056473127187928185
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0030453389626927674
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.110449473657354E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 249546108,
+          "lngE7": 1212239227
+        }, {
+          "latE7": 249550991,
+          "lngE7": 1212226333
+        }, {
+          "latE7": 249552230,
+          "lngE7": 1212226943
+        }, {
+          "latE7": 249568233,
+          "lngE7": 1212234725
+        }, {
+          "latE7": 249586448,
+          "lngE7": 1212243194
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 600.8296156836678,
+        "travelMode": "WALK",
+        "confidence": 0.9929913871236807
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 249551811,
+          "lngE7": 1212227936,
+          "accuracyMeters": 6,
+          "timestamp": "2022-02-18T05:49:38Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 249596820,
+        "longitudeE7": 1212243210,
+        "placeId": "ChIJh7DFXjYiaDQR-kHCEJ9ag9Y",
+        "address": "320台灣桃園市中壢區延平路394號",
+        "name": "Xinzhuqujianlisuo-Zhonglijianli Station",
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        },
+        "locationConfidence": 69.49188,
+        "calibratedProbability": 52.201252
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T05:55:23Z",
+        "endTimestamp": "2022-02-18T06:43:33.677Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 249586317,
+      "centerLngE7": 1212243551,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 249559945,
+        "longitudeE7": 1212232344,
+        "placeId": "ChIJOcza8kkiaDQRX-ipjRQhj3w",
+        "address": "320台灣桃園市中壢區延平路535號",
+        "name": "Chungli City Yanping Road parking lots",
+        "locationConfidence": 5.7973495,
+        "calibratedProbability": 4.3548813
+      }, {
+        "latitudeE7": 249541075,
+        "longitudeE7": 1212239985,
+        "placeId": "ChIJw4p1c0kiaDQRnBfEtmydod4",
+        "address": "320台灣桃園市中壢區中正路51號",
+        "name": "中正路51號",
+        "locationConfidence": 2.1620092,
+        "calibratedProbability": 1.6240687
+      }, {
+        "latitudeE7": 249552776,
+        "longitudeE7": 1212233217,
+        "placeId": "ChIJ7bxzhUkiaDQR6KUzxixjNTU",
+        "address": "320台灣桃園市中壢區中平路115號",
+        "name": "財政部北區國稅局中壢稽徵所第一辦公室",
+        "locationConfidence": 2.0338206,
+        "calibratedProbability": 1.5277754
+      }, {
+        "latitudeE7": 249586798,
+        "longitudeE7": 1212250457,
+        "placeId": "ChIJXTKdTjYiaDQRi75FJuLILBQ",
+        "address": "320台灣桃園市中壢區中美路95號",
+        "name": "Zhongmei Hospital",
+        "locationConfidence": 1.3722746,
+        "calibratedProbability": 1.0308319
+      }, {
+        "latitudeE7": 249568373,
+        "longitudeE7": 1212232422,
+        "placeId": "ChIJkRi-5EkiaDQRWOckWnKHdJI",
+        "address": "320台灣桃園市中壢區延平路500號",
+        "name": "CTBC Bank Zhongli Branch",
+        "locationConfidence": 0.9606249,
+        "calibratedProbability": 0.7216069
+      }, {
+        "latitudeE7": 249583699,
+        "longitudeE7": 1212239999,
+        "placeId": "ChIJe3am5TYiaDQRjJLa8xMJgvY",
+        "address": "320台灣桃園市中壢區延平路452號\n1樓",
+        "name": "Postman",
+        "locationConfidence": 0.81535906,
+        "calibratedProbability": 0.6124854
+      }, {
+        "latitudeE7": 249561054,
+        "longitudeE7": 1212237691,
+        "placeId": "ChIJKVqm60kiaDQRUh1eOfEddo8",
+        "address": "320台灣桃園市中壢區中山路167號",
+        "name": "CPC Zhongli Zhongshan",
+        "locationConfidence": 0.63988596,
+        "calibratedProbability": 0.4806727
+      }, {
+        "latitudeE7": 249553954,
+        "longitudeE7": 1212219862,
+        "placeId": "ChIJ9W96LkoiaDQRlx_jZgCGYNw",
+        "address": "320台灣桃園市中壢區中正路146號",
+        "name": "First Commercial Bank",
+        "locationConfidence": 0.60528183,
+        "calibratedProbability": 0.45467857
+      }, {
+        "latitudeE7": 249587928,
+        "longitudeE7": 1212270098,
+        "placeId": "ChIJf60CCTciaDQRSVEBHyuHoAc",
+        "address": "320台灣桃園市中壢區中美路86號",
+        "name": "Zhongzheng Park",
+        "locationConfidence": 0.5554535,
+        "calibratedProbability": 0.41724828
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 55,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 250265508,
+        "longitudeE7": 1215228141,
+        "placeId": "ChIJS_msiZqpQjQRIHZ1h0nma3E",
+        "address": "100台灣台北市中正區羅斯福路二段164之1號\nB1樓",
+        "name": "Guting Station",
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        },
+        "locationConfidence": 67.49227,
+        "calibratedProbability": 40.369186
+      },
+      "duration": {
+        "startTimestamp": "2022-02-27T06:57:30.621Z",
+        "endTimestamp": "2022-02-27T06:59:00.853Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 250256633,
+      "centerLngE7": 1215241392,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 250257239,
+        "longitudeE7": 1215229880,
+        "placeId": "ChIJVUEA1LupQjQRyHta-PK-sKQ",
+        "address": "100台灣台北市中正區羅斯福路二段142號",
+        "name": "麻古茶坊台北古亭店",
+        "locationConfidence": 6.4370236,
+        "calibratedProbability": 3.8501804
+      }, {
+        "latitudeE7": 250263092,
+        "longitudeE7": 1215233130,
+        "placeId": "ChIJ8QJejpqpQjQRLB1g66MmMGw",
+        "address": "100台灣台北市大安區羅斯福路二段77巷",
+        "name": "Guting Market",
+        "locationConfidence": 1.1561456,
+        "calibratedProbability": 0.691526
+      }, {
+        "latitudeE7": 250247316,
+        "longitudeE7": 1215239008,
+        "placeId": "ChIJaZdHcpCpQjQRLv2F7HCk8xE",
+        "address": "100台灣台北市中正區羅斯福路二段200-1號",
+        "name": "進隆鎖店/刻印/開鎖",
+        "locationConfidence": 0.9846012,
+        "calibratedProbability": 0.58892006
+      }, {
+        "latitudeE7": 250261552,
+        "longitudeE7": 1215234068,
+        "placeId": "ChIJ32jBj5qpQjQRNGrxgCYD1FI",
+        "address": "106台灣台北市大安區羅斯福路二段79號\n3樓",
+        "name": "肉多多火鍋-古亭旗艦店",
+        "locationConfidence": 0.7587138,
+        "calibratedProbability": 0.4538099
+      }, {
+        "latitudeE7": 250266020,
+        "longitudeE7": 1215252780,
+        "placeId": "ChIJyaj3y5qpQjQRPd_-UT93bts",
+        "address": "106台灣台北市大安區和平東路一段79號",
+        "name": "師範大學運動場停車場",
+        "locationConfidence": 0.648487,
+        "calibratedProbability": 0.38787985
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 250256633,
+        "longitudeE7": 1215241392,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 250264005,
+        "longitudeE7": 1215294156,
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-27T06:59:00.853Z",
+        "endTimestamp": "2022-02-27T07:06:31Z"
+      },
+      "distance": 537,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 47.86626398563385
+      }, {
+        "activityType": "STILL",
+        "probability": 31.275629997253418
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.254171371459961
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 4.803989827632904
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 3.3588841557502747
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.4402905255556107
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.642601191997528
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.559696089476347
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.30923751182854176
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.26595029048621655
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.13932902365922928
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04980288213118911
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.022156527847982943
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.011958525283262134
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.680473241729487E-5
+      }]
+    }
+  }]
+}

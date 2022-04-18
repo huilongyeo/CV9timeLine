@@ -1,0 +1,79 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 250597170,
+        "longitudeE7": 1215331840,
+        "placeId": "ChIJlYQez16pQjQRe6yoEpXZXzU",
+        "address": "10468台灣台北市中山區松江路316號\nB1",
+        "name": "Xingtian Temple Station",
+        "sourceInfo": {
+          "deviceTag": 1016042659
+        },
+        "locationConfidence": 85.19075,
+        "calibratedProbability": 65.78321
+      },
+      "duration": {
+        "startTimestamp": "2022-04-02T10:54:14.643Z",
+        "endTimestamp": "2022-04-02T10:56:51.788Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 250596139,
+      "centerLngE7": 1215331869,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 250576688,
+        "longitudeE7": 1215331462,
+        "placeId": "ChIJp2g_9l6pQjQRNF4hDAIQLwM",
+        "address": "104台灣台北市中山區",
+        "name": "Xingtian Temple Station",
+        "locationConfidence": 2.6624796,
+        "calibratedProbability": 2.055933
+      }, {
+        "latitudeE7": 250593917,
+        "longitudeE7": 1215335006,
+        "placeId": "ChIJu-3mxF6pQjQRqIx9jPaTi94",
+        "address": "10491台灣台北市中山區松江路251號",
+        "name": "K Hotels Songjiang",
+        "locationConfidence": 1.7567152,
+        "calibratedProbability": 1.3565131
+      }, {
+        "latitudeE7": 250591540,
+        "longitudeE7": 1215345210,
+        "placeId": "ChIJw7CsBHKpQjQRjXvqrNVOZ8o",
+        "address": "104台灣台北市中山區民生東路二段147巷6弄6號",
+        "name": "M.M Dessert Studio（麥貳甜點工作室）",
+        "locationConfidence": 1.1645975,
+        "calibratedProbability": 0.8992874
+      }, {
+        "latitudeE7": 250600050,
+        "longitudeE7": 1215334491,
+        "placeId": "ChIJ1xd-0l6pQjQRFE1XGDg_dBc",
+        "address": "104台灣台北市中山區松江路275號",
+        "name": "Lan Xian Ting",
+        "locationConfidence": 0.5539738,
+        "calibratedProbability": 0.4277715
+      }, {
+        "latitudeE7": 250606258,
+        "longitudeE7": 1215331359,
+        "placeId": "ChIJTfd2M1mpQjQRJTw9SH-6KdY",
+        "address": "104台灣台北市中山區",
+        "name": "Xingtian Temple Station",
+        "locationConfidence": 0.53777874,
+        "calibratedProbability": 0.4152659
+      }, {
+        "latitudeE7": 250600050,
+        "longitudeE7": 1215334491,
+        "placeId": "ChIJTSPm0l6pQjQRriChjRH-BiU",
+        "address": "10491台灣台北市中山區松江路275號\n2樓",
+        "name": "白安宏美式健康整復中心",
+        "locationConfidence": 0.49901247,
+        "calibratedProbability": 0.3853311
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }]
+}
