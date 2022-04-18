@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAN7XAdwgXjJzfeZseseQrw81nAsjAudkA">
+    </script>
+  </head>
+  <body>
+	<div>
+		<input type="file" id="file-input" />
+		<pre id="file-content"></pre>
+	</div>
+	<select id="date-list" onchange="changeDate(this)"></select>
+	<div id="map-canvas"></div>
+	<script src="index.js"></script>
+  </body>
+</html>
